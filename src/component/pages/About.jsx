@@ -6,7 +6,7 @@ export default function About() {
     return(
         // Add first only div if add multiple sections
         <div>   
-            <section className="min-h-[50vh] pt-40"
+            <section className="min-h-[50vh] pt-40 pb-40"
             style={{
                 backgroundImage:`linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), 
                 url(${timage})`,
