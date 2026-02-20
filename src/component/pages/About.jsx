@@ -14,13 +14,13 @@ export default function About() {
                 backgroundPosition:'Center'
             }}
             >
-                <div className=" text-center mb-4 drop-shadow-lg text-white">
+            <div className="text-center mb-4 drop-shadow-lg">
                     
                     <h2 className="text-5xl text-center font-bold text-white mt-10 mb-10">
-                        About <span className="text-orange-400">Us </span>
+                    About <span className="text-orange-400">Us </span>
                     </h2>
                     <p className="text-white mx-auto md:text-[3vh] text-center px-8 max-w-4xl mb-10 ">The Tech Chronicles is a technology-focused platform dedicated to sharing clear, practical, and insightful content about programming, software development, and emerging digital trends.</p>
-                </div>
+            </div>
 
             </section>
 
