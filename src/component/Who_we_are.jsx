@@ -1,13 +1,11 @@
-
-import laptop from '../assets/laptop.jpg';
-
+import image1 from '../assets/image1.jpg';
 
 export default function Who_we_are() {
   return (
     <section className="relative gap-8 items-center px-10 py-10"
     style={{
         backgroundImage: `linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), 
-        url(${laptop})`, 
+        url(${image1})`, 
         backgroundSize: 'cover', 
         backgroundPosition: 'center'}}
     >
